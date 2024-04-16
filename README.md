@@ -29,11 +29,11 @@ Obese
 Underweight
 
 ## Regresi
-Menyiapkan library yang diperlukan
-Melakukan preprocessing
-Menerapkan metode klasifikasi menggunakan ANN
-Melihat akurasi
-Menampilkan consusion matrix
+1. Menyiapkan library yang diperlukan
+2. Melakukan preprocessing
+3. Menerapkan metode klasifikasi menggunakan ANN
+4. Melihat akurasi
+5. Menampilkan consusion matrix
 
 pada model yang dikerjakan kali ini pada saat melakukan regresi terdapat perbedaan hasil akurasi dengan menggunakan metode SVM pada tugas sebelumnya dengan menggunakan metode ANN pada tugas kali ini, dimana
 ## Hasil akurasi dari metode SVM untuk regresi adalah sbb:
@@ -51,11 +51,11 @@ Root Mean Squared Error: 357042.8495803255
 Dari ketiga metode tersebut dapat dilihat SVM menghasilkan nilai yang lebih kecil dari pada ANN yang mana hasil yang bagus untuk regresi adalah ketiga error yang didapatkan semakin kecil
 
 ## Klasifikasi
-Menyiapkan library yang diperlukan
-Melakukan preprocessing
-Menerapkan metode Regresi menggunakan ANN
-Melihat akurasi MEA
-Menampilkan visualisasi
+1. Menyiapkan library yang diperlukan
+2. Melakukan preprocessing
+3. Menerapkan metode Regresi menggunakan ANN
+4. Melihat akurasi MEA
+5. Menampilkan visualisasi
 
 pada model yang dikerjakan kali ini pada saat melakukan klasifikasi terdapat perbedaan hasil akurasi dengan menggunakan metode SVM pada tugas sebelumnya dengan menggunakan metode ANN pada tugas kali ini, dimana
 ## Hasil akurasi dari metode SVM untuk klasifikasi adalah sbb: 
