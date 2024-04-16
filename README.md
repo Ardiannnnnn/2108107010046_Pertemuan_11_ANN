@@ -38,15 +38,15 @@ Underweight
 pada model yang dikerjakan kali ini pada saat melakukan regresi terdapat perbedaan hasil akurasi dengan menggunakan metode SVM pada tugas sebelumnya dengan menggunakan metode ANN pada tugas kali ini, dimana
 ## Hasil akurasi dari metode SVM untuk regresi adalah sbb:
 
-Mean Absolute Error: 190296.43555101554
-Mean Squared Error: 66385108025.07722
-Root Mean Squared Error: 257653.0768787309
+- Mean Absolute Error: 190296.43555101554
+- Mean Squared Error: 66385108025.07722
+- Root Mean Squared Error: 257653.0768787309
 
 ## sedangkan menggunakan metode ANN untuk regresi adalah sbb:
 
-Mean Absolute Error: 248549.25980555557
-Mean Squared Error: 127479596436.43893
-Root Mean Squared Error: 357042.8495803255
+- Mean Absolute Error: 248549.25980555557
+- Mean Squared Error: 127479596436.43893
+- Root Mean Squared Error: 357042.8495803255
 
 Dari ketiga metode tersebut dapat dilihat SVM menghasilkan nilai yang lebih kecil dari pada ANN yang mana hasil yang bagus untuk regresi adalah ketiga error yang didapatkan semakin kecil
 
@@ -60,13 +60,14 @@ Dari ketiga metode tersebut dapat dilihat SVM menghasilkan nilai yang lebih keci
 pada model yang dikerjakan kali ini pada saat melakukan klasifikasi terdapat perbedaan hasil akurasi dengan menggunakan metode SVM pada tugas sebelumnya dengan menggunakan metode ANN pada tugas kali ini, dimana
 ## Hasil akurasi dari metode SVM untuk klasifikasi adalah sbb: 
 
-Model accuracy score with default hyperparameters: 0.6818
-Model accuracy score with rbf kernel and C=100.0 : 0.9091
+- Model accuracy score with default hyperparameters: 0.6818
+- Model accuracy score with rbf kernel and C=100.0 : 0.9091
 
 ## sedangkan menggunakan metode ANN untuk klasifikasi adalah sbb:
-Epoch 99/100
+- Epoch 99/100
 8/8 [==============================] - 0s 7ms/step - loss: 0.4076 - accuracy: 0.8400 - val_loss: 0.4879 - val_accuracy: 0.7273
-Epoch 100/100
+
+- Epoch 100/100
 8/8 [==============================] - 0s 7ms/step - loss: 0.4034 - accuracy: 0.8400 - val_loss: 0.4829 - val_accuracy: 0.7273
 
 Jadi saat menggunakan metode SVM dengan dengan parameter default maka ANN mendapatkan akurasi yang lebih tinggi dari pada SVM namun saat memberikan nilai kepada parameter C = 100, akurasi dari metode SVM lebih tinggi dibandingkan dengan metode ANN
